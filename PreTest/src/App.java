@@ -56,7 +56,7 @@ public class App {
             }
             
         } else {
-            // Gagal di usia
+            
             System.out.println("ANDA TIDAK LAYAK MENDONOR");
             System.out.println("Usia anda tidak memenuhi syarat");
             System.out.println("Usia anda: " + usia + " tahun");
